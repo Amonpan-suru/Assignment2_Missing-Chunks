@@ -1,0 +1,11 @@
+/Users/surubamark/Desktop/Git_Hub/mdt112_assignment2/bin/Debug/netcoreapp3.1/mdt112_assignment2
+/Users/surubamark/Desktop/Git_Hub/mdt112_assignment2/bin/Debug/netcoreapp3.1/mdt112_assignment2.deps.json
+/Users/surubamark/Desktop/Git_Hub/mdt112_assignment2/bin/Debug/netcoreapp3.1/mdt112_assignment2.runtimeconfig.json
+/Users/surubamark/Desktop/Git_Hub/mdt112_assignment2/bin/Debug/netcoreapp3.1/mdt112_assignment2.runtimeconfig.dev.json
+/Users/surubamark/Desktop/Git_Hub/mdt112_assignment2/bin/Debug/netcoreapp3.1/mdt112_assignment2.dll
+/Users/surubamark/Desktop/Git_Hub/mdt112_assignment2/bin/Debug/netcoreapp3.1/mdt112_assignment2.pdb
+/Users/surubamark/Desktop/Git_Hub/mdt112_assignment2/obj/Debug/netcoreapp3.1/mdt112_assignment2.csprojAssemblyReference.cache
+/Users/surubamark/Desktop/Git_Hub/mdt112_assignment2/obj/Debug/netcoreapp3.1/mdt112_assignment2.AssemblyInfoInputs.cache
+/Users/surubamark/Desktop/Git_Hub/mdt112_assignment2/obj/Debug/netcoreapp3.1/mdt112_assignment2.AssemblyInfo.cs
+/Users/surubamark/Desktop/Git_Hub/mdt112_assignment2/obj/Debug/netcoreapp3.1/mdt112_assignment2.dll
+/Users/surubamark/Desktop/Git_Hub/mdt112_assignment2/obj/Debug/netcoreapp3.1/mdt112_assignment2.pdb
